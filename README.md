@@ -16,8 +16,8 @@ Android Studio(Latest Version)
 ```
 /*
 Program to display animation operation”.
-Developed by: RAMYA S
-Registeration Number : 212222040130 
+Developed by: SUJI S
+Registeration Number : 212222040164
 */
 ```
 # In activity_main.xml
